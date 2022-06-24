@@ -1,4 +1,4 @@
-
+# ![mahadipepetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadipepetak&count_private=true&show_icons=true&theme=radical&prs=true&is
 ### Hi there 👋
 
 <!--
